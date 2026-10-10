@@ -5,7 +5,7 @@ Interactive Excel supply chain dashboard analyzing vendor performance, delivery 
 ## Dashboard Previews
 
 ### 1. Supplier & Quality Risk Focus
-![Quality Risk Dashboard](Dashbaord1.png)
+![Quality Risk Dashboard](Dashboard1.png)
 
 ### 2. Supplier Performance Scorecard
 ![Performance Scorecard](Dashboard2.png)
