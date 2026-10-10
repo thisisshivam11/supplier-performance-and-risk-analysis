@@ -5,10 +5,10 @@ Interactive Excel supply chain dashboard analyzing vendor performance, delivery 
 ## Dashboard Previews
 
 ### 1. Supplier & Quality Risk Focus
-![Quality Risk Dashboard](dashboard1.png)
+![Quality Risk Dashboard](Dashboard1.png)
 
 ### 2. Supplier Performance Scorecard
-![Performance Scorecard](dashboard2.png)
+![Performance Scorecard](Dashboard2.png)
 
 ## Key Highlights
 - **Delivery Reliability:** Monitored On-Time Delivery (OTD), Order Fill Rates, and lead-time variance.
